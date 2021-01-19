@@ -1,6 +1,6 @@
 # winclip-sync
 
-Read and write the windows clipboard without any installation.
+PowerShell scripts to read and write windows clipboard without installation.
 
 ## Overview
 
